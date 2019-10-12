@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xethoohaiw.spm-nl.com/sitemap.xml
